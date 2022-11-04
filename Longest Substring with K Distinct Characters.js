@@ -22,4 +22,4 @@ const longest_substring_with_k_distint_characters = (s, k) =>{
     return substring_length;
 }
 
-console.log(longest_substring_with_k_distint_characters('cbbebi', 3))
+console.log(longest_substring_with_k_distint_characters('123322', 2))
